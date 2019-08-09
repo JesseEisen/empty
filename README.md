@@ -1,6 +1,6 @@
 # Kang’s Website
 
-[shud.in](https://shud.in)
+copy from [shud.in](https://shud.in)
 
 ## Development
 - Install `yarn` from [yarnpkg.org](https://yarnpkg.org)
